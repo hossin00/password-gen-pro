@@ -1,0 +1,27 @@
+{
+  "name": "Password Generator Pro",
+  "short_name": "Password",
+  "description": "Generate strong passwords. Zero cloud storage.",
+  "start_url": "/password-gen-pro/",
+  "scope": "/password-gen-pro/",
+  "display": "standalone",
+  "background_color": "#0a080f",
+  "theme_color": "#8b5cf6",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/password-gen-pro/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/password-gen-pro/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
